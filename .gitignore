@@ -13,5 +13,7 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+.idea
+.target
 
     
